@@ -1,0 +1,12 @@
+{
+  "name": "paper-proxy-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.8.0",
+    "minecraft-protocol": "^1.41.0"
+  }
+}
